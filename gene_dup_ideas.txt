@@ -1,0 +1,5 @@
+PATRIC
+    - get reads per gene?
+    - can get # genes per pathway, so maybe can look at comparison of gene copy number
+pileup subtraction from mapping to reference
+gene bp regions from geneious + bedtools histogram? --> maybe for future automation
