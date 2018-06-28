@@ -1,0 +1,52 @@
+SAMPLE 881
+----------
+11717744 reads; of these:
+  11717744 (100.00%) were unpaired; of these:
+    11703047 (99.87%) aligned 0 times
+    14159 (0.12%) aligned exactly 1 time
+    538 (0.00%) aligned >1 times
+0.13% overall alignment rate
+SAMPLE 882
+----------
+11490547 reads; of these:
+  11490547 (100.00%) were unpaired; of these:
+    11476782 (99.88%) aligned 0 times
+    13273 (0.12%) aligned exactly 1 time
+    492 (0.00%) aligned >1 times
+0.12% overall alignment rate
+SAMPLE 887
+----------
+15079128 reads; of these:
+  15079128 (100.00%) were unpaired; of these:
+    15059032 (99.87%) aligned 0 times
+    19376 (0.13%) aligned exactly 1 time
+    720 (0.00%) aligned >1 times
+0.13% overall alignment rate
+SAMPLE 888
+----------
+9863636 reads; of these:
+  9863636 (100.00%) were unpaired; of these:
+    9851481 (99.88%) aligned 0 times
+    11739 (0.12%) aligned exactly 1 time
+    416 (0.00%) aligned >1 times
+0.12% overall alignment rate
+SAMPLE 889
+----------
+11699609 reads; of these:
+  11699609 (100.00%) were unpaired; of these:
+    11684811 (99.87%) aligned 0 times
+    14278 (0.12%) aligned exactly 1 time
+    520 (0.00%) aligned >1 times
+0.13% overall alignment rate
+SAMPLE 890
+----------
+16281461 reads; of these:
+  16281461 (100.00%) were unpaired; of these:
+    16260980 (99.87%) aligned 0 times
+    19787 (0.12%) aligned exactly 1 time
+    694 (0.00%) aligned >1 times
+0.13% overall alignment rate
+
+METHOD
+------
+bedtools genomecov -scale 100/read_count ==> results in % 
