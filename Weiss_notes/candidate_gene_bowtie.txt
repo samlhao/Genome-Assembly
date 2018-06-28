@@ -1,0 +1,53 @@
+SAMPLE 881
+----------
+11717744 reads; of these:
+  11717744 (100.00%) were unpaired; of these:
+    11709963 (99.93%) aligned 0 times
+    7781 (0.07%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.07% overall alignment rate
+
+SAMPLE 882
+----------
+11490547 reads; of these:
+  11490547 (100.00%) were unpaired; of these:
+    11483189 (99.94%) aligned 0 times
+    7358 (0.06%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.06% overall alignment rate
+
+SAMPLE 887
+----------
+15079128 reads; of these:
+  15079128 (100.00%) were unpaired; of these:
+    15068557 (99.93%) aligned 0 times
+    10571 (0.07%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.07% overall alignment rate
+
+SAMPLE 888
+----------
+9863636 reads; of these:
+  9863636 (100.00%) were unpaired; of these:
+    9857147 (99.93%) aligned 0 times
+    6489 (0.07%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.07% overall alignment rate
+
+SAMPLE 889
+----------
+11699609 reads; of these:
+  11699609 (100.00%) were unpaired; of these:
+    11691710 (99.93%) aligned 0 times
+    7899 (0.07%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.07% overall alignment rate
+
+SAMPLE 890
+----------
+16281461 reads; of these:
+  16281461 (100.00%) were unpaired; of these:
+    16270605 (99.93%) aligned 0 times
+    10856 (0.07%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.07% overall alignment rate
